@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ingresar a la página de Utest.com y proceder a dar clic" skipped="0" tests="1" time="69.68" timestamp="2022-08-26 11:59:35"><testcase name="Crear un nuevo usuario"><error message="The following error occurred: chrome not reachable&#10;  (Session info: chrome=104.0.5112.102)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'PC-JOHN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_301'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\JOHNSA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: e26d3fd3ede7492441030b1e0a263ac4&#10;*** Element info: {Using=xpath, value=//div[contains(text(),'Ideos X5')]}" type="org.openqa.selenium.WebDriverException">The following error occurred: chrome not reachable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC-JOHN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\JOHNSA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e26d3fd3ede7492441030b1e0a263ac4
+*** Element info: {Using=xpath, value=//div[contains(text(),'Ideos X5')]}</error><system-err>The following error occurred: chrome not reachable
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PC-JOHN', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\JOHNSA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e26d3fd3ede7492441030b1e0a263ac4
+*** Element info: {Using=xpath, value=//div[contains(text(),'Ideos X5')]}&#13;
+co.com.choucair.certification.testjoin.tasks.IngresarInfoDevices.performAs(IngresarInfoDevices.java:30)&#13;
+co.com.choucair.certification.testjoin.stepdefinitions.TestJoinStepDefinitions.presionamosElBotonRegistrar(TestJoinStepDefinitions.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>
